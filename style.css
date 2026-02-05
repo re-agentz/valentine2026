@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFE3EC;
+}
+#maincont {
+    text-align: center;
+    cursor: pointer;
+    font-family: "Gigi";
+    font-weight: bold;
+    color: black;
+    max-width: var(--container-width);
+    margin: 0 auto;
+}
+#introcont {
+    text-align: center;
+    cursor:pointer;
+
+}
+#page2 {
+    text-align: center;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#page3 {
+    text-align: center;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#page4 {
+    text-align: center;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#redo {
+    text-align: center;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#yay {
+    text-align: center;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
